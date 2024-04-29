@@ -38,7 +38,7 @@ staticDir = ['static']
   img_title = "MyRoT"
   icon = "https://i.imgur.com/TeB6GHL.png"
   quote = ""
-  description= "Descubre MyRoT, el revolucionario Árbol Robot diseñado para el seguimiento de niños con TEA. Con estética de árbol barrigón, MyRoT fortalece vínculos entre pacientes y especialistas a través de su App de comunicación en tiempo real. Facilita intervenciones individualizadas y mejora el proceso de enseñanza-aprendizaje con expresiones faciales y voz del especialista."
+  description= "Descubre MyRoT, el Árbol Robot diseñado para el seguimiento de niños con TEA. Con estética de árbol barrigón, MyRoT fortalece vínculos entre pacientes y especialistas a través de su App de comunicación en tiempo real. Facilita intervenciones individualizadas y mejora el proceso de enseñanza-aprendizaje con expresiones faciales y voz del especialista."
   licenseUrl = "https://creativecommons.org/licenses/by/4.0/"
 
 [params.style]

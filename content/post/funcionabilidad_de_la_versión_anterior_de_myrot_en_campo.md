@@ -1,6 +1,6 @@
 +++
 author = "Herminia Peña y Leonel González"
-title = "Funcionabilidad de la versión anterior de MyRoT en campo"
+title = "Funcionalidad de la primera versión de MyRoT en campo"
 date = "2021-12-16"
 description = "Test"
 tags = [
@@ -9,7 +9,7 @@ tags = [
 <!--example tag:-->
 <!--"new"-->
 
-Funcionabilidad de la versión anterior de MyRoT en campo
+Funcionalidad de la primera versión de MyRoT en campo
 
 <!--more-->
 

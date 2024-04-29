@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MyRoT - Blog</title>
-    <link>https://blog.myrot.net/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent posts from on MyRoT - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.myrot.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Funcionabilidad de la versión anterior de MyRoT en campo</title>
-      <link>https://blog.myrot.net/post/funcionabilidad_de_la_versi%C3%B3n_anterior_de_myrot_en_campo/</link>
+      <title>Funcionalidad de la primera versión de MyRoT en campo</title>
+      <link>http://localhost:1313/post/funcionabilidad_de_la_versi%C3%B3n_anterior_de_myrot_en_campo/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.myrot.net/post/funcionabilidad_de_la_versi%C3%B3n_anterior_de_myrot_en_campo/</guid>
-      <description>&lt;p&gt;Funcionabilidad de la versión anterior de MyRoT en campo&lt;/p&gt;
+      <guid>http://localhost:1313/post/funcionabilidad_de_la_versi%C3%B3n_anterior_de_myrot_en_campo/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Funcionalidad de la primera versión de MyRoT en campo&lt;/p&gt;
 &lt;div class=&#34;flex_funcionalidad&#34;&gt;
 
 &lt;div class=&#34;text-image&#34;&gt;
@@ -23,7 +25,7 @@ La idea del árbol cuentacuentos, surgió en el 2016, cuando la bióloga-botáni
 &lt;/div&gt;
 
 &lt;div class=&#34;pad-10&#34;&gt;
-&lt;img src=&#34;https://blog.myrot.net/images/blog1.jpg&#34; width=&#34;300vh&#34; height=&#34;300vh&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/blog1.jpg&#34; width=&#34;300vh&#34; height=&#34;300vh&#34;&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;
@@ -33,7 +35,7 @@ En cada actividad cultural que la escritora Emy realizaba (escuelas privadas y p
 &lt;/div&gt;
 
 &lt;div class=&#34;img_fun_2 pad-30&#34;&gt;
-&lt;img src=&#34;https://blog.myrot.net/images/blog2.jpg&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/blog2.jpg&#34;&gt;
 &lt;/div&gt;
   
 &lt;div&gt;
@@ -49,7 +51,7 @@ Lo que significa que, a los 5 años, pudiera ser la edad media y apta para que l
 &lt;/div&gt;
 
 &lt;div class=&#34;pad-10&#34;&gt;
-&lt;img src=&#34;https://blog.myrot.net/images/blog3.jpg&#34; width=&#34;250vh&#34; height=&#34;350vh&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/blog3.jpg&#34; width=&#34;250vh&#34; height=&#34;350vh&#34;&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;
@@ -61,7 +63,7 @@ La atención de los niños motivada por la emoción de un elemento nuevo no fue 
 &lt;/div&gt;
 
 &lt;div class=&#34;pad-10&#34;&gt;
-&lt;img src=&#34;https://blog.myrot.net/images/blog4.jpg&#34; width=&#34;300vh&#34; height=&#34;300vh&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/blog4.jpg&#34; width=&#34;300vh&#34; height=&#34;300vh&#34;&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;
@@ -74,7 +76,7 @@ De allí, nos inspiramos a construir el primer prototipo de MyRoT para llevarlo 
 &lt;/div&gt;
 
 &lt;div class=&#34;pad-10&#34;&gt;
-&lt;img src=&#34;https://blog.myrot.net/images/blog5.jpg&#34; width=&#34;300vh&#34; height=&#34;300vh&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/blog5.jpg&#34; width=&#34;300vh&#34; height=&#34;300vh&#34;&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;
