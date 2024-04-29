@@ -1,6 +1,6 @@
 # Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
 # and drop a star while you're at it. ;)
-baseurl = "https://fbc15f14-fff7-4f58-bc79-0d1a6a4d818b-00-128hbcth4vh6b.kirk.replit.dev" # https://fbc15f14-fff7-4f58-bc79-0d1a6a4d818b-00-128hbcth4vh6b.kirk.replit.dev
+baseurl = "https://blog-myrot-net.onrender.com/" # https://blog-myrot-net.onrender.com/
 title = "MyRoT - Blog"
 languageCode = "en"
 paginate = "10" # Number of posts per page
