@@ -1,5 +1,5 @@
 +++
-author = "Herminia Peña y Leonel González"
+author = "Herminia Peña - Aznar y Leonel González - Madden"
 title = "Funcionalidad de la primera versión de MyRoT en campo"
 date = "2021-12-16"
 description = "Test"
