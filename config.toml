@@ -38,7 +38,9 @@ staticDir = ['static']
   img_title = "MyRoT"
   icon = "https://i.imgur.com/TeB6GHL.png"
   quote = ""
-  description= 'MyRoT (My Robot Tree), es un robot social de telepresencia, inspirado en un árbol barrigón (Pseudobombax septenatum), es teledirigido mediante la App MyRoT, la cual cuenta con operabilidad multiplataforma. Su finalidad es la interación mediante MyRoT entre los especialistas y los niños que presentan TEA. Mide 1.5 m de altura, en la parte superior de su “tronco” tiene una tablet, proyectando una imagen de un rostro con gestos como: feliz, enojado, triste, confundido, ternura, asombro, miedo y orgullo. Estas emociones pueden ser manipuladas mediante la pulsación directa en la interfaz de la App MyRoT instalada en su dispositivo. En la parte interior tiene una bocina que emite la voz del especialista en tiempo real, creando las condiciones de interacción social.'
+description = '''
+MyRoT (My Robot Tree), es un robot social de telepresencia, inspirado en un árbol barrigón (<em>Pseudobombax septenatum</em>), es teledirigido mediante la App MyRoT, la cual cuenta con operabilidad multiplataforma. Su finalidad es la interacción mediante MyRoT entre los especialistas y los niños que presentan TEA. Mide 1.5 m de altura, en la parte superior de su “tronco” tiene una tablet, proyectando una imagen de un rostro con gestos como: feliz, enojado, triste, confundido, ternura, asombro, miedo y orgullo. Estas emociones pueden ser manipuladas mediante la pulsación directa en la interfaz de la App MyRoT instalada en su dispositivo. En la parte interior tiene una bocina que emite la voz del especialista en tiempo real, creando las condiciones de interacción social.
+'''
   licenseUrl = "https://creativecommons.org/licenses/by/4.0/"
 
 [params.style]
